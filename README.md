@@ -44,4 +44,4 @@ mostrando el resultado en pantalla.</p>
 
 <h2> ☘️ Demo </h2>
     
-![demo-animation]([https://github.com/user-attachments/assets/f659e1fb-6f04-42cd-8d1d-f1cf10192ddd](https://isaac0-07.github.io/juego-amgiosecreto/assets/juego-secretoamigo.gif))
+![demo-animation]https://isaac0-07.github.io/juego-amgiosecreto/assets/juego-secretoamigo.gif
